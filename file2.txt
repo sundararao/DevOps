@@ -1,1 +1,2 @@
 "This is the File2" 
+"This is GitHub changes request in File2"
